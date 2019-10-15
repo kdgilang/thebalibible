@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "c15d0c100997186b128e9666ccdcf62c",
-    "url": "/thebalibible/mockup/api.categories.json"
+    "revision": "e5e5e26dbe084d86f5c2f5131aa2873f",
+    "url": "/thebalibible/mockup/api.currency.json"
   },
   {
     "revision": "6b77eda72b0acfac4acca2c01a64206b",
@@ -48,20 +48,20 @@ self.__precacheManifest = [
     "url": "/thebalibible/mockup/api.explorelocation.json"
   },
   {
-    "revision": "ffee549f6461187cbcaf10caa75a3bfb",
+    "revision": "a9c73f9c97fcc5a8f4f6cfea8eea1f4b",
     "url": "/thebalibible/index.html"
   },
   {
-    "revision": "dc77705921549deaa0c6",
-    "url": "/thebalibible/js/app.edd52a42.js"
+    "revision": "19efb7e930336e24faa4",
+    "url": "/thebalibible/js/app.56601a05.js"
   },
   {
-    "revision": "e5e5e26dbe084d86f5c2f5131aa2873f",
-    "url": "/thebalibible/mockup/api.currency.json"
+    "revision": "c15d0c100997186b128e9666ccdcf62c",
+    "url": "/thebalibible/mockup/api.categories.json"
   },
   {
-    "revision": "c641dbee1d75892e4d88bdc31560c91b",
-    "url": "/thebalibible/fonts/Montserrat-SemiBold.c641dbee.ttf"
+    "revision": "ade91f473255991f410f61857696434b",
+    "url": "/thebalibible/fonts/Montserrat-Bold.ade91f47.ttf"
   },
   {
     "revision": "d44cd46dd3464c440945ff011dd591a0",
@@ -80,6 +80,10 @@ self.__precacheManifest = [
     "url": "/thebalibible/img/ig@2x.cb4b88c2.png"
   },
   {
+    "revision": "c641dbee1d75892e4d88bdc31560c91b",
+    "url": "/thebalibible/fonts/Montserrat-SemiBold.c641dbee.ttf"
+  },
+  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/thebalibible/fonts/Montserrat-Regular.ee653992.ttf"
   },
@@ -92,15 +96,11 @@ self.__precacheManifest = [
     "url": "/thebalibible/fonts/Montserrat-Light.409c7f79.ttf"
   },
   {
-    "revision": "ade91f473255991f410f61857696434b",
-    "url": "/thebalibible/fonts/Montserrat-Bold.ade91f47.ttf"
-  },
-  {
     "revision": "0b5a164c2daa0e957885",
     "url": "/thebalibible/css/chunk-vendors.3641674e.css"
   },
   {
-    "revision": "dc77705921549deaa0c6",
+    "revision": "19efb7e930336e24faa4",
     "url": "/thebalibible/css/app.10dd291c.css"
   }
 ];
