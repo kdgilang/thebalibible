@@ -16,12 +16,12 @@ self.__precacheManifest = [
     "url": "/thebalibible/js/chunk-vendors.766d3d31.js"
   },
   {
-    "revision": "0adaab243f953d183a3f24df64a665d6",
-    "url": "/thebalibible/img/post/all-food-3.jpg"
-  },
-  {
     "revision": "d8b74a7db743faf72bf5b75780387631",
     "url": "/thebalibible/img/post/all-food-4.jpg"
+  },
+  {
+    "revision": "0adaab243f953d183a3f24df64a665d6",
+    "url": "/thebalibible/img/post/all-food-3.jpg"
   },
   {
     "revision": "e1e502a222edd7822f463fe5ac3756af",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/thebalibible/mockup/api.explorelocation.json"
   },
   {
-    "revision": "0dc4650359155648f06af682a8934e7a",
+    "revision": "ffee549f6461187cbcaf10caa75a3bfb",
     "url": "/thebalibible/index.html"
   },
   {
-    "revision": "f7c4712f2e97640dcb7d",
-    "url": "/thebalibible/js/app.f7022607.js"
+    "revision": "dc77705921549deaa0c6",
+    "url": "/thebalibible/js/app.edd52a42.js"
   },
   {
     "revision": "e5e5e26dbe084d86f5c2f5131aa2873f",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/thebalibible/css/chunk-vendors.3641674e.css"
   },
   {
-    "revision": "f7c4712f2e97640dcb7d",
-    "url": "/thebalibible/css/app.b85e324c.css"
+    "revision": "dc77705921549deaa0c6",
+    "url": "/thebalibible/css/app.10dd291c.css"
   }
 ];
