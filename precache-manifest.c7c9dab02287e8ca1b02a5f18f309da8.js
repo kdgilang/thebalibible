@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "e5e5e26dbe084d86f5c2f5131aa2873f",
-    "url": "/thebalibible/mockup/api.currency.json"
+    "revision": "c15d0c100997186b128e9666ccdcf62c",
+    "url": "/thebalibible/mockup/api.categories.json"
   },
   {
     "revision": "6b77eda72b0acfac4acca2c01a64206b",
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/thebalibible/mockup/api.posts.json"
   },
   {
-    "revision": "0b5a164c2daa0e957885",
-    "url": "/thebalibible/js/chunk-vendors.766d3d31.js"
+    "revision": "00d8f3cd8ed9168badcc",
+    "url": "/thebalibible/js/chunk-vendors.b4372233.js"
   },
   {
     "revision": "d8b74a7db743faf72bf5b75780387631",
@@ -36,6 +36,10 @@ self.__precacheManifest = [
     "url": "/thebalibible/robots.txt"
   },
   {
+    "revision": "09a3cd0145037008ab13d22527a2e11a",
+    "url": "/thebalibible/mockup/api.locations.json"
+  },
+  {
     "revision": "7284ade95b2a94d50ee16fa218de6a1d",
     "url": "/thebalibible/mockup/api.navigation.json"
   },
@@ -44,20 +48,20 @@ self.__precacheManifest = [
     "url": "/thebalibible/mockup/api.otherstuff.json"
   },
   {
-    "revision": "bf80589379cfeec3a5f9b78cca4feee9",
-    "url": "/thebalibible/mockup/api.explorelocation.json"
-  },
-  {
-    "revision": "a9c73f9c97fcc5a8f4f6cfea8eea1f4b",
+    "revision": "faea6685807ed477bc2eb862a871c0c2",
     "url": "/thebalibible/index.html"
   },
   {
-    "revision": "19efb7e930336e24faa4",
-    "url": "/thebalibible/js/app.56601a05.js"
+    "revision": "5a5f213a24ae5ade9ed5",
+    "url": "/thebalibible/js/app.f7bb14b8.js"
   },
   {
-    "revision": "c15d0c100997186b128e9666ccdcf62c",
-    "url": "/thebalibible/mockup/api.categories.json"
+    "revision": "e5e5e26dbe084d86f5c2f5131aa2873f",
+    "url": "/thebalibible/mockup/api.currency.json"
+  },
+  {
+    "revision": "bf80589379cfeec3a5f9b78cca4feee9",
+    "url": "/thebalibible/mockup/api.explorelocation.json"
   },
   {
     "revision": "ade91f473255991f410f61857696434b",
@@ -96,11 +100,11 @@ self.__precacheManifest = [
     "url": "/thebalibible/fonts/Montserrat-Light.409c7f79.ttf"
   },
   {
-    "revision": "0b5a164c2daa0e957885",
+    "revision": "00d8f3cd8ed9168badcc",
     "url": "/thebalibible/css/chunk-vendors.3641674e.css"
   },
   {
-    "revision": "19efb7e930336e24faa4",
-    "url": "/thebalibible/css/app.10dd291c.css"
+    "revision": "5a5f213a24ae5ade9ed5",
+    "url": "/thebalibible/css/app.ab9ae6c6.css"
   }
 ];

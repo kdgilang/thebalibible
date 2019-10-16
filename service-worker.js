@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/thebalibible/precache-manifest.5f15170dab58fb00a8388af3f66e7c46.js"
+  "/thebalibible/precache-manifest.c7c9dab02287e8ca1b02a5f18f309da8.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tbb"});
